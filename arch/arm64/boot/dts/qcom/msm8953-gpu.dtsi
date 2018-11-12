@@ -68,7 +68,7 @@
 		qcom,id = <0>;
 		qcom,chipid = <0x05000600>;
 
-		qcom,initial-pwrlevel = <4>;
+		qcom,initial-pwrlevel = <6>;
 
 		qcom,idle-timeout = <80>; //msecs
 		qcom,deep-nap-timeout = <100>; //msecs
@@ -185,7 +185,7 @@
 			/* TURBO */
 			qcom,gpu-pwrlevel@0 {
 				reg = <0>;
-				qcom,gpu-freq = <650000000>;
+				qcom,gpu-freq = <815000000>;
 				qcom,bus-freq = <10>;
 				qcom,bus-min = <10>;
 				qcom,bus-max = <10>;
@@ -194,7 +194,7 @@
 			/* NOM+ */
 			qcom,gpu-pwrlevel@1 {
 				reg = <1>;
-				qcom,gpu-freq = <560000000>;
+				qcom,gpu-freq = <650000000>;
 				qcom,bus-freq = <10>;
 				qcom,bus-min = <8>;
 				qcom,bus-max = <10>;

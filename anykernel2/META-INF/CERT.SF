@@ -1,0 +1,46 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 38XT7GQBnh4Vxca3JJBjzzZsAh0=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: Br6xNsbYLFIighT+FGsY/cB14YM=
+
+Name: anykernel.sh
+SHA1-Digest-Manifest: HV0d+rOdF1aSi1BX5KjXAW3XT3E=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: NnJldPU6pJMfwjAn3V6gNUXxVW4=
+
+Name: tools/busybox
+SHA1-Digest-Manifest: 75mJWn+KdrQufOdznpBnGQzS0vc=
+
+Name: banner
+SHA1-Digest-Manifest: wMk8FJSAgHzlqCbulhPz4wKHFPo=
+
+Name: dtbs/msm8953-qrd-sku3-tissot.dtb
+SHA1-Digest-Manifest: f8B2OEp3aKNCyiTTC5LwzS4yg+E=
+
+Name: tools/magiskpolicy
+SHA1-Digest-Manifest: TNN/zA3kMRPVV+n5vQv6iqh/DfE=
+
+Name: tools/mkbootimg
+SHA1-Digest-Manifest: qm671v/WY8XGNtNt0cSIo0J1x/w=
+
+Name: tools/unpackbootimg
+SHA1-Digest-Manifest: 8NEygSvAmNTAKkVt50q1WkXFgm4=
+
+Name: tools/ak2-core.sh
+SHA1-Digest-Manifest: ezhA/t1eyDIP5uqWDNf44PDrK/U=
+
+Name: tools/magiskboot
+SHA1-Digest-Manifest: hcrItOlOPEdh/vOLHIV8xIItmJg=
+
+Name: tools/xz
+SHA1-Digest-Manifest: ShXB+EPTzSV+G9xjoT4hPw/L25E=
+
+Name: tools/lz4
+SHA1-Digest-Manifest: CrQlBND9Ygy8LM2+5kjy7n+1JW8=
+
+Name: kernel/Image.gz
+SHA1-Digest-Manifest: hCOovVKk7qa488VedrHKzsoQyjo=
+
