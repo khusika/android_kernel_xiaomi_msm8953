@@ -1160,7 +1160,6 @@
 			target-dev = <&mincpubw>;
 			cpu-to-dev-map =
 				<  373028 1611 >,
-				< 1555200 3221 >,
 				< 2764800 5859 >;
 		};
 	};
@@ -1195,7 +1194,6 @@
 		qcom,target-dev = <&mincpubw>;
 		qcom,core-dev-table =
 				<  373028 1611 >,
-				< 1555200 3221 >,
 				< 2764800 5859 >;
 	};
 

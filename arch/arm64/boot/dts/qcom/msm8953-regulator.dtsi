@@ -404,38 +404,30 @@
 				regulator-max-microvolt = <15>;
 
 				qcom,cpr-fuse-corners = <4>;
-				qcom,cpr-fuse-combos = <120>;
-				qcom,cpr-speed-bins = <15>;
+				qcom,cpr-fuse-combos = <64>;
+				qcom,cpr-speed-bins = <8>;
 				qcom,cpr-speed-bin-corners =
 					<15 0 15 0 0 0 15 15>;
 				qcom,cpr-corners =
 					/* Speed bin 0 */
-					<15 15 15 15 15 15 15 15
-					 15 15 15 15 15 15 15>,
+					<15 15 15 15 15 15 15 15>,
 
 					/* Speed bin 1 */
-					<0 0 0 0 0 0 0 0
-					 0 0 0 0 0 0 0>,
+					<0 0 0 0 0 0 0 0>,
 
 					/* Speed bin 2 */
-					<15 15 15 15 15 15 15 15
-					 15 15 15 15 15 15 15>,
+					<15 15 15 15 15 15 15 15>,
 
 					/* Speed bin 3..5 */
-					<0 0 0 0 0 0 0 0
-					 0 0 0 0 0 0 0>,
-					<0 0 0 0 0 0 0 0
-					 0 0 0 0 0 0 0>,
-					<0 0 0 0 0 0 0 0
-					 0 0 0 0 0 0 0>,
+					<0 0 0 0 0 0 0 0>,
+					<0 0 0 0 0 0 0 0>,
+					<0 0 0 0 0 0 0 0>,
 
 					/* Speed bin 6 */
-					<15 15 15 15 15 15 15 15
-					 15 15 15 15 15 15 15>,
+					<15 15 15 15 15 15 15 15>,
 
 					/* Speed bin 7 */
-					<15 15 15 15 15 15 15 15
-					 15 15 15 15 15 15 15>;
+					<15 15 15 15 15 15 15 15>;
 
 				qcom,cpr-corner-fmax-map =
 					/* Speed bin 0 */
